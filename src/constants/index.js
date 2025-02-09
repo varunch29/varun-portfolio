@@ -142,7 +142,7 @@ export const educationList = [
     title: "Sri Chaitanya Junior College",
     degree: "",
     duration: "2020 - 2022",
-    //content1: "Graduated with a distinction in the fifth cohort of the Polkadot Blockchain Academy at the National University of Singapore.",
+    content1: "MPC",
   },
 ];
 
